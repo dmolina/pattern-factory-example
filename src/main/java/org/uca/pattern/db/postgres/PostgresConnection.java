@@ -1,4 +1,4 @@
-package org.uca.pattern.org.uca.pattern.db.postgres;
+package org.uca.pattern.db.postgres;
 
 import org.uca.pattern.db.Connection;
 

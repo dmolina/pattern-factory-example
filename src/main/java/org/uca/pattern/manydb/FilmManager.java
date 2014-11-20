@@ -1,6 +1,6 @@
 package org.uca.pattern.manydb;
 
-import org.uca.pattern.org.uca.pattern.db.mysql.MySQLConnection;
+import org.uca.pattern.db.mysql.MySQLConnection;
 
 /**
  * Created by daniel on 20/11/14.

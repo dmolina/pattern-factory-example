@@ -1,4 +1,4 @@
-package org.uca.pattern.org.uca.pattern.db.mysql;
+package org.uca.pattern.db.mysql;
 
 import org.uca.pattern.db.Connection;
 
