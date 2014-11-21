@@ -15,7 +15,7 @@
                     <artifactId>exec-maven-plugin</artifactId>
                     <version>1.2.1</version>
                     <configuration>
-                        <mainClass>org.uca.pattern.System</mainClass>
+                        <mainClass>org.uca.pattern.SystemTest</mainClass>
 
                     </configuration>
                 </plugin>
