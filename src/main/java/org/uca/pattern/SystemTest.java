@@ -20,7 +20,11 @@ public class SystemTest {
         filmManager = new FilmManager();
 
         filmManager.removeAll();
-        String name = "Pepe";
+        printHelloMsg();
+    }
+
+	private static void printHelloMsg() {
+		String name = "Pepe";
         String despedida = "me tengo que marchar";
         System.out.println("Hola, " +name +" que tal estás?" +", bueno, "+despedida );
    
@@ -33,7 +37,7 @@ public class SystemTest {
         msg.append(", bueno, ");
         msg.append(despedida);
         System.out.println(msg.toString());
-    }
+	}
 
 
 }
